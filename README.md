@@ -10,3 +10,5 @@
 
 ### Design Resources
 https://www.figma.com/file/JB2IG2M39pYBwpfELHeVPL/solppi's-personal-page?node-id=0%3A1&t=bK3JtFPYsBA9qBGE-1
+
+IA - https://www.figma.com/file/vpvOX1qpU0yaODXhl3Xh7G/solppi-personal-IA?node-id=0%3A1&t=NZs9stqtPxAegLNZ-1
